@@ -2,7 +2,7 @@ public class Royal {
 
  public static void main(String[] args) {
   // TODO Auto-generated method stub
-    System.out.println("SHREYA");
+    System.out.println("VIJAYS BIRTDAY");
 
  }
 
